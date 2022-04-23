@@ -1,0 +1,12 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "et".(µ§³·øÿÿÿÿ
+;
+java:S2129
+" Remove this "String" constructor(Ú’¹”úÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(µ§³·øÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(Ãá¢âÿÿÿÿÿ8âîàÓï/
+ 
+java:S1192	"„Define a constant instead of duplicating this literal "___________________________________________________________________" 3 times.(‡áôŠùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¹¼Û
